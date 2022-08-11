@@ -1,0 +1,17 @@
+.text-white-50 mx-auto mt-2 mb-5 {
+  color: white;
+}
+
+form {
+  background-color: #fff;
+  color: #ffff;
+}
+
+label {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+/*# sourceMappingURL=custom.css.map */
